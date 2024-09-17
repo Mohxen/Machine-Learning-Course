@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "Machine-Learning-Course",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
